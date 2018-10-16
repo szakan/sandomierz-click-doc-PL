@@ -1,1 +1,1 @@
-# sandomierz-click-doc-PL
+# sandomierz-click-doc-PL - gtk
